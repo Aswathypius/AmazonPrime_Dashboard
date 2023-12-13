@@ -4,7 +4,7 @@ A guided Power BI project
 
 ### Table of contents
 
---[Project overview](#project-overview)
+-[Project overview](#project-overview)
 
 -[Data source](#data-source)
 
