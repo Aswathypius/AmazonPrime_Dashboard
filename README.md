@@ -56,7 +56,6 @@ This project uses only one dataset.The dataset was obtained from the Kaggle Amaz
 - Focus on both US and Indian market.
 - Invest more on TV shows too.
 
-[Link to guided project](https://www.youtube.com/watch?v=_xs8XXlGQVM)
 
 
 
